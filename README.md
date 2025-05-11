@@ -6,6 +6,7 @@
 - 🤔 I’m seeking help with **laser welding simulations and production-line bottleneck analyses**
 - 💬 Ask me about **material handling systems**, **ERP for production planning**, or **web dev with Neon & Drizzle ORM**
 - 📫 How to reach me: **ghalibhussain733@gmail.com** or connect on **[LinkedIn](https://www.linkedin.com/in/ghalib-hussain-255652256)*
+- **[portfolio}(https://portfolio-mu-teal-65.vercel.app/)*
 - ⚡ Fun fact: I once built a mini robotic arm from scratch!
 
 
