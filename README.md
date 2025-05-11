@@ -1,14 +1,49 @@
-# Hi there, I’m @Ghalib18 👋
+👋 Hi there, I’m @Ghalib18 🚀
 
-- 🔭 I’m currently working on  a project Rightsy
-- 🌱 I’m learning **Next.js**, **React**, and **Tailwind CSS**
-- 👯 I’m looking to collaborate on **open-source mechatronics and automation projects**
-- 🤔 I’m seeking help with **laser welding simulations and production-line bottleneck analyses**
-- 💬 Ask me about **material handling systems**, **ERP for production planning**, or **web dev with Neon & Drizzle ORM**
-- 📫 How to reach me: **ghalibhussain733@gmail.com** or connect on **[LinkedIn](https://www.linkedin.com/in/ghalib-hussain-255652256)*
-- **[portfolio}(https://portfolio-mu-teal-65.vercel.app/)*
-- ⚡ Fun fact: I once built a mini robotic arm from scratch!
+🔭 Currently working on:
 
+* 🚀 Project Rightsy, focusing on innovative web solutions.
+
+🌱 Continuously learning and experimenting with:
+
+* ⚡ Backend: ⚙️ Node.js, 🚀 Express, 🌐 REST APIs, ⚡ GraphQL
+* 🗄️ Database: 🌐 Neon, 🐘 PostgreSQL, ⚡ Drizzle ORM
+* 🔐 Authentication: 🔑 JWT, 🔒 OAuth, 🛡️ Session Management
+* ☁️ Deployment: 🚀 Vercel, 🌐 Netlify, 🐳 Docker, 🚦 CI/CD pipelines
+* 🔒 Security: 🛡️ Web Security Best Practices, 🔐 Secure APIs
+
+🤝 Open to collaborating on:
+
+* 🌐 Open-source mechatronics and automation projects
+* 🏗️ Backend architecture for scalable applications
+* 🤖 Smart automation solutions for industrial processes
+
+🤖 Specialized in building robust and scalable backend systems.
+
+🚀 Actively exploring:
+
+* 🔬 Advanced API design and optimization
+* 🔥 Laser welding simulations
+* 🏭 Production-line bottleneck analysis
+
+💬 Ask me about:
+
+* 🚛 Material handling systems
+* 🏗️ ERP for production planning
+* ⚡ Backend development with Node.js, Neon, and Drizzle ORM
+
+📫 Reach me at:
+
+* 📧 Email: [ghalibhussain733@gmail.com](mailto:ghalibhussain733@gmail.com)
+* 🔗 LinkedIn: \[https://www.linkedin.com/in/ghalib-hussain-255652256]
+* 🌐 Portfolio: [Portfolio](https://portfolio-mu-teal-65.vercel.app/)
+
+🎯 Passionate about:
+
+* 🚀 Clean, maintainable code
+* ⚡ Efficient server-side logic
+
+⚡ Fun fact: 🤖 Built a mini robotic arm from scratch and automated it for complex tasks!
 
 <!---
 Ghalib18/Ghalib18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
