@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_vznyylvznyylvzny.jpg" width="220" style="border-radius: 50%" />
+  <img src="image.jpeg" width="220" style="border-radius: 50%" />
 </p>
 
 <div align="center">
